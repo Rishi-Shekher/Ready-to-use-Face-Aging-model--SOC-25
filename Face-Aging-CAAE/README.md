@@ -12,7 +12,7 @@ https://happy-armchair-815.notion.site/Face-Aging-Model-1f816f25632d80f79f38ede6
 
 
 ---
-
+First change your working directory to Face-Aging-CAAE.
 ## Pre-trained Model
 
 I provide a fully trained ready to use model (50 epochs), allowing for immediate testing and inference without the need for training.
@@ -23,7 +23,7 @@ I provide a fully trained ready to use model (50 epochs), allowing for immediate
 
 1.  Click the link above to download the `FaceAging_CAAE_save_final.zip` file.
 2.  Unzip the file. This will create a folder named `FaceAging_CAAE_save`.
-3.  Copy this entire `FaceAging_CAAE_save` folder and place it inside your main project directory.
+3.  Copy this entire `FaceAging_CAAE_save` folder and place it inside the Face-Aging-CAAE folder.
 
 The folder contains:
 * `checkpoint/`: The final saved weights of the trained models.
