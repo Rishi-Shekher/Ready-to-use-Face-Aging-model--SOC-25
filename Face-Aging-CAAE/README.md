@@ -161,7 +161,7 @@ As described in the paper, this Conditional Adversarial Autoencoder (CAAE) archi
 
 ## Acknowledgements
 
-This project is a modernization of the original TensorFlow 1.x implementation by the paper's authors. The original code can be found at:
+This project is an alternative implementation of the CAAE model by the paper's authors. The original code can be found at:
 
 * [**ZZUTK/Face-Aging-CAAE**](https://github.com/ZZUTK/Face-Aging-CAAE)
 
