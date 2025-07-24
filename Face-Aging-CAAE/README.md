@@ -6,6 +6,11 @@ The model is trained on UTKFace dataset on Google colabs, python T4 GPU. Average
 
 The model can take a facial photo and generate realistic aged or de-aged versions of that person across 10 different age categories, from 0-5 years up to 61-70+ years.
 
+This is the link to the notion page (provided by my mentor) for learning concepts related to GANs and CNNs.
+https://happy-armchair-815.notion.site/Face-Aging-Model-1f816f25632d80f79f38ede6cd083d38
+
+
+
 ---
 
 ## Pre-trained Model
